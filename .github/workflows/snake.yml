@@ -11,12 +11,13 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake assets
         uses: Platane/snk@v3
         with:
           github_user_name: Divyansh230
-          outputs: 
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
