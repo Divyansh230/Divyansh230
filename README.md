@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation -->
 
-<h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
+<h1 align="center"> Divyansh Singh</h1>
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | GenAI Explorer</h3>
 
 <p align="center">
